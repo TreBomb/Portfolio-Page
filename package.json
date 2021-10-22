@@ -1,8 +1,8 @@
 {
-  "name": "phase-4-deploying-app-demo",
-  "description": "Build scripts for Heroku",
+  "name": "portfolio-page",
+  "description": "A home for my portfolio projects",
   "engines": {
-    "node": ">= 14"
+    "node": "16.x"
   },
   "scripts": {
     "build": "npm install --prefix client && npm run build --prefix client",
